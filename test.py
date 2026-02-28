@@ -1,0 +1,23 @@
+# import langchain
+# import langchain_chroma
+# import langchain_classic
+# import langchain_community
+# import langchain_core
+# import langchain_ollama
+# import langchain_text_splitters
+# import langgraph
+# import langgraph_checkpoint
+# import langgraph_prebuilt
+# import langgraph_sdk
+#
+# print('langchain:', langchain.__version__)
+# print('langchain-chroma:', langchain_chroma.__version__)
+# print('langchain-classic:', langchain_classic.__version__)
+# print('langchain-community:', langchain_community.__version__)
+# print('langchain-core:', langchain_core.__version__)
+# print('langchain-ollama:', langchain_ollama.__version__)
+# print('langchain-text-splitters:', langchain_text_splitters.__version__)
+# print('langgraph:', langgraph.__version__)
+# print('langgraph-checkpoint:', langgraph_checkpoint.__version__)
+# print('langgraph-prebuilt:', langgraph_prebuilt.__version__)
+# print('langgraph-sdk:', langgraph_sdk.__version__)
